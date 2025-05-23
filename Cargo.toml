@@ -14,14 +14,13 @@ members = [
     "tflite",
     "onnx-opl",
     "onnx",
+    "safetensors",
     "libcli",
     "cli",
     "gpu",
     "metal",
     "extra",
     "transformers",
-
-    "metal",
 
     "api",
     "api/rs",
