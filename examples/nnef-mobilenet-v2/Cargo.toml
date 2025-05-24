@@ -1,3 +1,5 @@
+cargo-features = ["edition2024"]
+
 [package]
 name = "example-nnef-mobilenet-v2"
 version = "0.20.7-pre"

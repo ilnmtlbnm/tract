@@ -1,3 +1,5 @@
+cargo-features = ["edition2024"]
+
 [package]
 name = "tract-metal"
 version = "0.21.14-pre"
@@ -41,4 +43,3 @@ ggml = { git = "https://github.com/rustformers/llm.git", rev="9376078", features
 [[bench]]
 name = "metal_gemm"
 harness = false
-

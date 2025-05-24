@@ -1,3 +1,5 @@
+cargo-features = ["edition2024"]
+
 [package]
 name = "face_detection_yolov8onnx_example"
 version = "0.1.0"

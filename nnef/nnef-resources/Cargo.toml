@@ -1,3 +1,5 @@
+cargo-features = ["edition2024"]
+
 [package]
 name = "tract-nnef-resources"
 version = "0.21.14-pre"
@@ -23,5 +25,3 @@ serde.workspace = true
 anyhow.workspace = true
 nom.workspace = true
 tract-nnef.workspace = true
-
-

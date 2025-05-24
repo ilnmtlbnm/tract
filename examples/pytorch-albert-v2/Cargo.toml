@@ -1,3 +1,5 @@
+cargo-features = ["edition2024"]
+
 [package]
 name = "pytorch-albert-v2"
 version = "0.20.7-pre"

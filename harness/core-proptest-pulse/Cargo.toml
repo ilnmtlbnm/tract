@@ -1,3 +1,5 @@
+cargo-features = ["edition2024"]
+
 [package]
 name = "core-proptest-pulse"
 version = "0.20.7-pre"

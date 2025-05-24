@@ -1,3 +1,5 @@
+cargo-features = ["edition2024"]
+
 [package]
 name = "lstm-proptest-onnx-vs-tf"
 version = "0.20.7-pre"

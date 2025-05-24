@@ -1,3 +1,5 @@
+cargo-features = ["edition2024"]
+
 [package]
 name = "example-tflite-mobilenet-v3"
 version = "0.20.7-pre"
